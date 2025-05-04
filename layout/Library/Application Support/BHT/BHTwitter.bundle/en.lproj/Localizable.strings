@@ -1,264 +1,267 @@
 /*
-  Language: en
+  Language: uk
+  Slava Ukraini!
+  Слава Україні!
   NeoFreeBird
 */
 
 "BHTWITTER_SETTINGS_TITLE" = "NeoFreeBird";
-"BHTWITTER_SETTINGS_DETAIL" = "Tweak your Twitter. Hide ads, enable Blue features, and more.";
-"SETTINGS_HEADER_TITLE" = "Customize your Twitter experience with these settings";
+"BHTWITTER_SETTINGS_DETAIL" = "Налаштуйте Twitter: вимкніть рекламу, увімкніть функції Blue та інше.";
+"SETTINGS_HEADER_TITLE" = "Налаштуйте свій Twitter за допомогою цих опцій";
 
-"CONFIRM_ALERT_MESSAGE" = "Sure you meant to do that?";
-"YES_BUTTON_TITLE" = "Yes";
-"NO_BUTTON_TITLE" = "No";
-"OK_BUTTON_TITLE" = "OK";
-"CANCEL_BUTTON_TITLE" = "Cancel";
+"CONFIRM_ALERT_MESSAGE" = "Ви точно хотіли це зробити?";
+"YES_BUTTON_TITLE" = "Так";
+"NO_BUTTON_TITLE" = "Ні";
+"OK_BUTTON_TITLE" = "ОК";
+"CANCEL_BUTTON_TITLE" = "Скасувати";
 
 
 /*Main menu start*/
 
 /*General*/
-"MAIN_SECTION_HEADER_TITLE" = "General";
+"MAIN_SECTION_HEADER_TITLE" = "Загальне";
 
-"VOICE_OPTION_TITLE" = "Voice Tweets";
-"VOICE_OPTION_DETAIL_TITLE" = "Turn Voice Tweets on or off (iOS only).";
+"VOICE_OPTION_TITLE" = "Голосові твіти";
+"VOICE_OPTION_DETAIL_TITLE" = "Увімкнути або вимкнути голосові твіти (лише iOS).";
 
-"UPLOAD_CUSTOM_VOICE_OPTION_TITLE" = "Voice Tweets";
-"UPLOAD_CUSTOM_VOICE_OPTION_DETAIL_TITLE" = "Turn Voice Tweets on or off (iOS only).";
+"UPLOAD_CUSTOM_VOICE_OPTION_TITLE" = "Голосові твіти";
+"UPLOAD_CUSTOM_VOICE_OPTION_DETAIL_TITLE" = "Увімкнути або вимкнути голосові твіти (лише iOS).";
 
-"HIDE_TOPICS_OPTION_TITLE" = "No topic Tweets";
-"HIDE_TOPICS_OPTION_DETAIL_TITLE" = "Remove Tweets tied to suggested topics.";
+"HIDE_TOPICS_OPTION_TITLE" = "Без твітів за темами";
+"HIDE_TOPICS_OPTION_DETAIL_TITLE" = "Прибрати твіти, пов'язані з рекомендованими темами.";
 
-"HIDE_TOPICS_TO_FOLLOW_OPTION" = "No 'Topics to follow'";
-"HIDE_TOPICS_TO_FOLLOW_OPTION_DETAIL_TITLE" = "Remove suggested topics.";
+"HIDE_TOPICS_TO_FOLLOW_OPTION" = "Без «Тем для стеження»";
+"HIDE_TOPICS_TO_FOLLOW_OPTION_DETAIL_TITLE" = "Прибрати пропозиції тем.";
 
-"PADLOCK_OPTION_TITLE" = "Lock Twitter";
-"PADLOCK_OPTION_DETAIL_TITLE" = "Require Face ID or a passcode to open Twitter.";
+"PADLOCK_OPTION_TITLE" = "Заблокувати Twitter";
+"PADLOCK_OPTION_DETAIL_TITLE" = "Потрібен Face ID або пароль для входу.";
 
-"ALWAYS_OPEN_SAFARI_OPTION_TITLE" = "Use external browser";
-"ALWAYS_OPEN_SAFARI_OPTION_DETAIL_TITLE" = "Open links in Safari or your default browser.";
+"ALWAYS_OPEN_SAFARI_OPTION_TITLE" = "Відкривати у браузері";
+"ALWAYS_OPEN_SAFARI_OPTION_DETAIL_TITLE" = "Відкривати посилання в Safari або браузері за замовчуванням.";
 
-"STRIP_URL_TRACKING_PARAMETERS_TITLE" = "Customize links";
-"STRIP_URL_TRACKING_PARAMETERS_DETAIL_TITLE" = "Choose a custom URL for links, and remove tracking.";
-"SELECT_URL_HOST_AFTER_COPY_OPTION_TITLE" = "Pick a custom URL";
+"STRIP_URL_TRACKING_PARAMETERS_TITLE" = "Кастомізувати посилання";
+"STRIP_URL_TRACKING_PARAMETERS_DETAIL_TITLE" = "Видалити трекінг і задати власне посилання.";
+"SELECT_URL_HOST_AFTER_COPY_OPTION_TITLE" = "Вибрати власний URL";
 
 
 /*Tweets*/
-"TWEETS_SECTION_HEADER_TITLE" = "Tweets";
+"TWEETS_SECTION_HEADER_TITLE" = "Твіти";
 
-"ORIG_TWEET_STYLE_OPTION_TITLE" = "Disable the compact Tweet style";
-"ORIG_TWEET_STYLE_OPTION_DETAIL_TITLE" = "Show likes, retweets, and replies on a separate line instead of inline with their buttons.";
+"ORIG_TWEET_STYLE_OPTION_TITLE" = "Вимкнути компактний стиль";
+"ORIG_TWEET_STYLE_OPTION_DETAIL_TITLE" = "Показувати лайки, ретвіти й відповіді окремо.";
 
-"TWEET_TO_IMAGE_OPTION_TITLE" = "Save Tweet as image";
-"TWEET_TO_IMAGE_OPTION_DETAIL_TITLE" = "Long-press share to export Tweets as images.";
+"TWEET_TO_IMAGE_OPTION_TITLE" = "Зберегти твіт як зображення";
+"TWEET_TO_IMAGE_OPTION_DETAIL_TITLE" = "Натисніть та утримуйте «Поділитися», щоб експортувати у вигляді картинки.";
 
-"ENABLE_TWEET_LABELS_OPTION_TITLE" = "Show Tweet source labels (beta)";
-"ENABLE_TWEET_LABELS_OPTION_DETAIL_TITLE" = "Shows what client the Tweet was made from (by @nyaathea).";
+"ENABLE_TWEET_LABELS_OPTION_TITLE" = "Показувати джерело твіту (бета)";
+"ENABLE_TWEET_LABELS_OPTION_DETAIL_TITLE" = "Відображає, з якого клієнта був зроблений твіт (від @nyaathea).";
 
-"LIKE_CONFIRM_OPTION_TITLE" = "Confirm likes";
-"LIKE_CONFIRM_OPTION_DETAIL_TITLE" = "Ask before liking a Tweet.";
+"LIKE_CONFIRM_OPTION_TITLE" = "Підтвердження вподобань";
+"LIKE_CONFIRM_OPTION_DETAIL_TITLE" = "Питати перед тим, як уподобати твіт.";
 
-"TWEET_CONFIRM_OPTION_TITLE" = "Confirm Tweets";
-"TWEET_CONFIRM_OPTION_DETAIL_TITLE" = "Ask before you post a Tweet.";
+"TWEET_CONFIRM_OPTION_TITLE" = "Підтвердження твіту";
+"TWEET_CONFIRM_OPTION_DETAIL_TITLE" = "Питати перед публікацією твіту.";
 
-"HIDE_VIEW_COUNT_OPTION_TITLE" = "Hide views";
-"HIDE_VIEW_COUNT_OPTION_DETAIL_TITLE" = "Don't show views under Tweets.";
+"HIDE_VIEW_COUNT_OPTION_TITLE" = "Приховати перегляди";
+"HIDE_VIEW_COUNT_OPTION_DETAIL_TITLE" = "Не показувати кількість переглядів під твітами.";
 
-"HIDE_MARKBOOK_BUTTON_OPTION_TITLE" = "Hide bookmarks";
-"HIDE_MARKBOOK_BUTTON_OPTION_DETAIL_TITLE" = "Remove the bookmark button from Tweets.";
+"HIDE_MARKBOOK_BUTTON_OPTION_TITLE" = "Приховати закладки";
+"HIDE_MARKBOOK_BUTTON_OPTION_DETAIL_TITLE" = "Прибрати кнопку закладки з твіту.";
 
-"DISABLE_SENSITIVE_TWEET_WARNINGS_OPTION_TITLE" = "No sensitive content warnings";
+"DISABLE_SENSITIVE_TWEET_WARNINGS_OPTION_TITLE" = "Прибрати попередження про чутливий контент";
 
 
 /*Profiles*/
-"PROFILES_SECTION_HEADER_TITLE" = "Profiles";
+"PROFILES_SECTION_HEADER_TITLE" = "Профілі";
 
-"FOLLOW_CONFIRM_OPTION_TITLE" = "Confirm follows";
-"FOLLOW_CONFIRM_OPTION_DETAIL_TITLE" = "Ask before following someone.";
+"FOLLOW_CONFIRM_OPTION_TITLE" = "Підтвердження читань";
+"FOLLOW_CONFIRM_OPTION_DETAIL_TITLE" = "Запитувати перед тим, як почати читати.";
 
-"COPY_PROFILE_INFO_OPTION_TITLE" = "Copy profile details";
-"COPY_PROFILE_INFO_OPTION_DETAIL_TITLE" = "Copy usernames, bios, and more with one tap.";
+"COPY_PROFILE_INFO_OPTION_TITLE" = "Копіювати інформацію профілю";
+"COPY_PROFILE_INFO_OPTION_DETAIL_TITLE" = "Копіюйте біо, ім'я користувача та інше одним натисканням.";
 
-"BIO_TRANSALTE_OPTION_TITLE" = "Translate bios";
-"BIO_TRANSALTE_OPTION_DETAIL_TITLE" = "See bios in your language.";
+"BIO_TRANSALTE_OPTION_TITLE" = "Перекладати «Про себе»";
+"BIO_TRANSALTE_OPTION_DETAIL_TITLE" = "Переглядайте біо своєю мовою.";
 
-"HIDE_WHO_FOLLOW_OPTION" = "No 'Who to follow'";
-"HIDE_WHO_FOLLOW_OPTION_DETAIL_TITLE" = "Remove follow suggestions from profiles.";
+"HIDE_WHO_FOLLOW_OPTION" = "Приховати «Кого читати»";
+"HIDE_WHO_FOLLOW_OPTION_DETAIL_TITLE" = "Прибрати рекомендації профілів.";
 
-"DISABLE_MEDIA_TAB_OPTION_TITLE" = "No separate Media tabs";
-"DISABLE_MEDIA_TAB_OPTION_DETAIL_TITLE" = "Merges the Photos and Videos tabs into one.";
+"DISABLE_MEDIA_TAB_OPTION_TITLE" = "Об'єднати вкладки медіа";
+"DISABLE_MEDIA_TAB_OPTION_DETAIL_TITLE" = "Об'єднати фото та відео в одній вкладці.";
 
-"DISABLE_ARTICLES_OPTION_TITLE" = "No Articles tab";
-"DISABLE_ARTICLES_OPTION_DETAIL_TITLE" = "Hide the Articles tab in profiles.";
+"DISABLE_ARTICLES_OPTION_TITLE" = "Приховати Статті";
+"DISABLE_ARTICLES_OPTION_DETAIL_TITLE" = "Прибрати вкладку «Статті» в профілі.";
 
-"DISABLE_HIGHLIGHTS_OPTION_TITLE" = "No Highlights tab";
-"DISABLE_HIGHLIGHTS_OPTION_DETAIL_TITLE" = "Hide the Highlights tab in profiles.";
+"DISABLE_HIGHLIGHTS_OPTION_TITLE" = "Приховати Вибране";
+"DISABLE_HIGHLIGHTS_OPTION_DETAIL_TITLE" = "Прибрати вкладку «Вибране».";
 
 
 /*Search*/
-"SEARCH_SECTION_HEADER_TITLE" = "Search";
+"SEARCH_SECTION_HEADER_TITLE" = "Пошук";
 
-"NO_HISTORY_OPTION_TITLE" = "No search history";
-"NO_HISTORY_OPTION_DETAIL_TITLE" = "Twitter will no longer keep track of your searches.";
+"NO_HISTORY_OPTION_TITLE" = "Вимкнути історію пошуку";
+"NO_HISTORY_OPTION_DETAIL_TITLE" = "Twitter не зберігатиме історію пошуку.";
 
-"HIDE_TREND_VIDEOS_OPTION_TITLE" = "No trending videos";
-"HIDE_TREND_VIDEOS_OPTION_DETAIL_TITLE" = "Remove the trending videos from the search menu.";
+"HIDE_TREND_VIDEOS_OPTION_TITLE" = "Приховати трендові відео";
+"HIDE_TREND_VIDEOS_OPTION_DETAIL_TITLE" = "Прибрати трендові відео з пошуку.";
 
 
 /*Photos & Videos*/
-"PHOTOS_VIDEOS_SECTION_HEADER_TITLE" = "Photos and videos";
+"PHOTOS_VIDEOS_SECTION_HEADER_TITLE" = "Фото і відео";
 
-"AUTO_HIGHEST_LOAD_OPTION_TITLE" = "High-quality media";
-"AUTO_HIGHEST_LOAD_OPTION_DETAIL_TITLE" = "Upload and view media in the best quality available.";
+"AUTO_HIGHEST_LOAD_OPTION_TITLE" = "Якісні медіа";
+"AUTO_HIGHEST_LOAD_OPTION_DETAIL_TITLE" = "Завантажуйте та переглядайте медіа у найкращій якості.";
 
-"DISABLE_VIDEO_LAYER_CAPTIONS_OPTION_TITLE" = "No video captions";
+"DISABLE_VIDEO_LAYER_CAPTIONS_OPTION_TITLE" = "Прибрати субтитри під відео";
 
-"FORCE_TWEET_FULL_FRAME_TITLE" = "Large images";
+"FORCE_TWEET_FULL_FRAME_TITLE" = "Великі зображення";
 
-"DISABLE_IMMERSIVE_PLAYER_TITLE" = "Turn off immersive player";
+"DISABLE_IMMERSIVE_PLAYER_TITLE" = "Вимкнути повноекранний плеєр";
 
 
 /*Twitter Blue*/
 "TWITTER_BLUE_SECTION_HEADER_TITLE" = "Twitter Blue";
-"TWITTER_BLUE_SECTION_FOOTER_TITLE" = "Restart Twitter to apply changes.";
+"TWITTER_BLUE_SECTION_FOOTER_TITLE" = "Перезапустіть Twitter, щоб застосувати зміни.";
 
-"HIDE_ADS_OPTION_TITLE" = "No ads";
-"HIDE_ADS_OPTION_DETAIL_TITLE" = "Remove all ads.";
+"HIDE_ADS_OPTION_TITLE" = "Вимкнути рекламу";
+"HIDE_ADS_OPTION_DETAIL_TITLE" = "Прибрати всю рекламу в застосунку.";
 
-"UNDO_TWEET_OPTION_TITLE" = "Undo Tweet";
-"UNDO_TWEET_OPTION_DETAIL_TITLE" = "Add a short delay before sending Tweets, so you can undo them.";
+"UNDO_TWEET_OPTION_TITLE" = "Скасувати твіт";
+"UNDO_TWEET_OPTION_DETAIL_TITLE" = "Додає затримку перед публікацією щоб встигнути її скасувати.";
 
-"READER_MODE_OPTION_TITLE" = "Reader mode";
-"READER_MODE_OPTION_DETAIL_TITLE" = "Read long threads with less clutter.";
+"READER_MODE_OPTION_TITLE" = "Режим читання";
+"READER_MODE_OPTION_DETAIL_TITLE" = "Читайте довгі треди комфортніше.";
 
-"DOWNLOAD_VIDEOS_OPTION_TITLE" = "Download media";
-"DOWNLOAD_VIDEOS_OPTION_DETAIL_TITLE" = "Save videos or GIFs right from Tweets.";
+"DOWNLOAD_VIDEOS_OPTION_TITLE" = "Завантажити медіа";
+"DOWNLOAD_VIDEOS_OPTION_DETAIL_TITLE" = "Зберігайте відео чи GIF прямо з твіту.";
 
-"DIRECT_SAVE_OPTION_TITLE" = "Save to Photos";
-"DIRECT_SAVE_OPTION_DETAIL_TITLE" = "Videos you save will go straight to your Photos app.";
+"DIRECT_SAVE_OPTION_TITLE" = "Зберегти в Фото";
+"DIRECT_SAVE_OPTION_DETAIL_TITLE" = "Відео зберігаються напряму у фотоальбом.";
 
-"HIDE_PREMIUM_OFFER_OPTION" = "No Twitter Blue prompts";
-"HIDE_PREMIUM_OFFER_OPTION_DETAIL_TITLE" = "Remove the 'Get Verified' and 'Upgrade' buttons.";
+"HIDE_PREMIUM_OFFER_OPTION" = "Без пропозицій Twitter Blue";
+"HIDE_PREMIUM_OFFER_OPTION_DETAIL_TITLE" = "Прибрати кнопки «Отримати верифікацію» та «Передплатити Blue».";
 
-"THEME_OPTION_TITLE" = "Change theme";
-"THEME_OPTION_DETAIL_TITLE" = "Pick a theme. Only you will see it.";
+"THEME_OPTION_TITLE" = "Змінити тему";
+"THEME_OPTION_DETAIL_TITLE" = "Оберіть тему — бачите тільки ви.";
 
-"APP_ICON_TITLE" = "Change app icon";
-"APP_ICON_DETAIL_TITLE" = "Choose a different app icon.";
+"APP_ICON_TITLE" = "Змінити іконку";
+"APP_ICON_DETAIL_TITLE" = "Оберіть іншу іконку застосунку.";
 
-"CUSTOM_TAB_BAR_OPTION_TITLE" = "Edit tab bar";
+"CUSTOM_TAB_BAR_OPTION_TITLE" = "Редагувати вкладки";
 
 
 /*Layout*/
-"LAYOUT_CUS_SECTION_HEADER_TITLE" = "Layout";
-"LAYOUT_CUS_SECTION_FOOTER_TITLE" = "Restart Twitter to apply changes.";
+"LAYOUT_CUS_SECTION_HEADER_TITLE" = "Інтерфейс";
+"LAYOUT_CUS_SECTION_FOOTER_TITLE" = "Перезапустіть Twitter, щоб застосувати зміни.";
 
-"CUSTOM_DIRECT_BACKGROUND_VIEW_TITLE" = "Custom Messages background";
-"CUSTOM_DIRECT_BACKGROUND_VIEW_DETAIL_TITLE" = "Pick a custom background for your Direct Messages.";
+"CUSTOM_DIRECT_BACKGROUND_VIEW_TITLE" = "Фон для повідомлень";
+"CUSTOM_DIRECT_BACKGROUND_VIEW_DETAIL_TITLE" = "Встановити власний фон для особистих повідомлень.";
 
-"HIDE_SPACE_OPTION_TITLE" = "Hide the Spaces bar";
+"HIDE_SPACE_OPTION_TITLE" = "Приховати панель Spaces";
 
-"STOP_HIDING_TAB_BAR_TITLE" = "Keep the tab bar visible";
-"STOP_HIDING_TAB_BAR_DETAIL_TITLE" = "Don't hide the tab bar when you scroll (can cause issues).";
+"STOP_HIDING_TAB_BAR_TITLE" = "Завжди показувати вкладки";
+"STOP_HIDING_TAB_BAR_DETAIL_TITLE" = "Не приховувати панель вкладок під час прокрутки. (може спричинити проблеми)";
 
-"DISABLE_RTL_OPTION_TITLE" = "Use left-to-right layout";
-"DISABLE_RTL_OPTION_DETAIL_TITLE" = "Force a LTR layout, even for RTL languages.";
+"DISABLE_RTL_OPTION_TITLE" = "Примусити інтерфейс зліва направо (LTR)";
+"DISABLE_RTL_OPTION_DETAIL_TITLE" = "Примусово використовувати LTR навіть для RTL-мов.";
 
-"SHOW_SCOLL_INDICATOR_OPTION_TITLE" = "Always show the scroll bar";
+"SHOW_SCOLL_INDICATOR_OPTION_TITLE" = "Завжди показувати індикатор прокрутки";
 
-"FONT_OPTION_TITLE" = "Custom fonts";
-"FONT_OPTION_DETAIL_TITLE" = "Select a custom font for Twitter.";
+"FONT_OPTION_TITLE" = "Власні шрифти";
+"FONT_OPTION_DETAIL_TITLE" = "Виберіть шрифт для Twitter.";
 
-"REQULAR_FONTS_PICKER_OPTION_TITLE" = "Choose a font";
+"REQULAR_FONTS_PICKER_OPTION_TITLE" = "Вибрати шрифт";
 
-"BOLD_FONTS_PICKER_OPTION_TITLE" = "Choose a bold font";
+"BOLD_FONTS_PICKER_OPTION_TITLE" = "Вибрати жирний шрифт";
 
 
 /*Legal*/
-"LEGAL_SECTION_HEADER_TITLE" = "Legal";
+"LEGAL_SECTION_HEADER_TITLE" = "Правова інформація";
 
-"LEGAL_BUTTON_TITLE" = "Legal notices";
-"ACKNOWLEDGEMENTS_SETTINGS_NAVIGATION_TITLE" = "Legal notices";
+"LEGAL_BUTTON_TITLE" = "Правові повідомлення";
+"ACKNOWLEDGEMENTS_SETTINGS_NAVIGATION_TITLE" = "Правові повідомлення";
 
 
 /*Debug*/
-"DEBUG_SECTION_HEADER_TITLE" = "Debug";
+"DEBUG_SECTION_HEADER_TITLE" = "Налагодження (debug)";
 
-"FLEX_OPTION_TITLE" = "FLEX debug mode";
-"FLEX_OPTION_DETAIL_TITLE" = "Use FLEX to debug Twitter.";
+"FLEX_OPTION_TITLE" = "Режим FLEX";
+"FLEX_OPTION_DETAIL_TITLE" = "Використовувати FLEX для налагодження Twitter.";
 
 
 /*Developers*/
-"DEVELOPER_SECTION_HEADER_TITLE" = "Developers";
-
-
-/*Main menu end*
+"DEVELOPER_SECTION_HEADER_TITLE" = "Розробникам";
 
 
 /*Custom fonts*/
-"CUSTOM_FONTS_NAVIGATION_BUTTON_TITLE" = "Custom fonts";
-"CUSTOM_FONTS_NAVIGATION_TITLE" = "Choose a font";
-"CUSTOM_FONTS_MENU_TITLE" = "\nChoose a font";
-"CUSTOM_FONTS_TUT_ALERT_MESSAGE" = "No custom fonts yet. Install some with the iFont app from the App Store.";
+"CUSTOM_FONTS_NAVIGATION_BUTTON_TITLE" = "Власні шрифти";
+"CUSTOM_FONTS_NAVIGATION_TITLE" = "Обрати шрифт";
+"CUSTOM_FONTS_MENU_TITLE" = "\nОбрати шрифт";
+"CUSTOM_FONTS_TUT_ALERT_MESSAGE" = "Поки немає шрифтів. Встановіть iFont з App Store.";
 
-/*Dwonload*/
-"DOWNLOAD_MENU_TITLE" = "\nChoose video quality";
-"PROGRESS_DOWNLOADING_STATUS_TITLE" = "Downloading...";
-"FETCHING_PROGRESS_TITLE" = "Just a second...";
-"FFMPEG_DOWNLOAD_OPTION_TITLE" = "Download using FFmpeg";
+
+/*Download*/
+"DOWNLOAD_MENU_TITLE" = "\nОберіть якість відео";
+"PROGRESS_DOWNLOADING_STATUS_TITLE" = "Завантаження...";
+"FETCHING_PROGRESS_TITLE" = "Секундочку...";
+"FFMPEG_DOWNLOAD_OPTION_TITLE" = "Завантажити через FFmpeg";
+
 
 /*App icon*/
-"APP_ICON_NAV_TITLE" = "Change app icon";
-"APP_ICON_HEADER_TITLE" = "Choose a new icon or theme for Twitter.";
+"APP_ICON_NAV_TITLE" = "Змінити іконку";
+"APP_ICON_HEADER_TITLE" = "Оберіть нову іконку чи тему для Twitter.";
+
 
 /*Copy profile info*/
-"COPY_PROFILE_INFO_MENU_OPTION_1" = "Copy bio";
-"COPY_PROFILE_INFO_MENU_OPTION_2" = "Copy username";
-"COPY_PROFILE_INFO_MENU_OPTION_3" = "Copy full username";
-"COPY_PROFILE_INFO_MENU_OPTION_4" = "Copy bio link";
-"COPY_PROFILE_INFO_MENU_OPTION_5" = "Copy location";
+"COPY_PROFILE_INFO_MENU_OPTION_1" = "Копіювати біо";
+"COPY_PROFILE_INFO_MENU_OPTION_2" = "Копіювати ім’я користувача";
+"COPY_PROFILE_INFO_MENU_OPTION_3" = "Копіювати повне ім’я";
+"COPY_PROFILE_INFO_MENU_OPTION_4" = "Копіювати посилання з біо";
+"COPY_PROFILE_INFO_MENU_OPTION_5" = "Копіювати місцезнаходження";
+
 
 /*Theme*/
-"THEME_SETTINGS_NAVIGATION_TITLE" = "Change theme";
-"THEME_OPTION_1" = "Blue";
-"THEME_OPTION_2" = "Yellow";
-"THEME_OPTION_3" = "Red";
-"THEME_OPTION_4" = "Purple";
-"THEME_OPTION_5" = "Orange";
-"THEME_OPTION_6" = "Green";
+"THEME_SETTINGS_NAVIGATION_TITLE" = "Змінити тему";
+"THEME_OPTION_1" = "Синя";
+"THEME_OPTION_2" = "Жовта";
+"THEME_OPTION_3" = "Червона";
+"THEME_OPTION_4" = "Фіолетова";
+"THEME_OPTION_5" = "Жовтогаряча";
+"THEME_OPTION_6" = "Зелена";
+
 
 /*Tab bar*/
-"CUSTOM_TAB_BAR_SETTINGS_NAVIGATION_TITLE" = "Edit tab bar";
-"CUSTOM_TAB_BAR_REST_MESSAGE" = "Are you sure you'd like to reset the tab bar?";
-"CUSTOM_TAB_BAR_SECTION_1_TITLE" = "Enabled";
-"CUSTOM_TAB_BAR_SECTION_2_TITLE" = "Disabled";
-"CUSTOM_TAB_BAR_OPTION_1" = "Home";
-"CUSTOM_TAB_BAR_OPTION_2" = "Explore";
+"CUSTOM_TAB_BAR_SETTINGS_NAVIGATION_TITLE" = "Редагування вкладок";
+"CUSTOM_TAB_BAR_REST_MESSAGE" = "Скинути вкладки до стандартних?";
+"CUSTOM_TAB_BAR_SECTION_1_TITLE" = "Увімкнено";
+"CUSTOM_TAB_BAR_SECTION_2_TITLE" = "Вимкнено";
+"CUSTOM_TAB_BAR_OPTION_1" = "Головна";
+"CUSTOM_TAB_BAR_OPTION_2" = "Огляд";
 "CUSTOM_TAB_BAR_OPTION_3" = "Spaces";
-"CUSTOM_TAB_BAR_OPTION_4" = "Communities";
-"CUSTOM_TAB_BAR_OPTION_5" = "Notifications";
-"CUSTOM_TAB_BAR_OPTION_6" = "Messages";
+"CUSTOM_TAB_BAR_OPTION_4" = "Спільноти";
+"CUSTOM_TAB_BAR_OPTION_5" = "Сповіщення";
+"CUSTOM_TAB_BAR_OPTION_6" = "Повідомлення";
 "CUSTOM_TAB_BAR_OPTION_7" = "Grok";
-"CUSTOM_TAB_BAR_OPTION_8" = "Video";
+"CUSTOM_TAB_BAR_OPTION_8" = "Відео";
+
 
 /*Message customization*/
-"CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_1" = "Use an image";
-"CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_2" = "Use a color";
-"CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_3" = "Reset to default";
-
-
+"CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_1" = "Використати зображення";
+"CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_2" = "Використати колір";
+"CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_3" = "Скинути до стандартного";
 
 
 /*Deprecated*/
-"TRUSTED_FRIENSS_OPTION_TITLE" = "Twitter Circles";
+"TRUSTED_FRIENSS_OPTION_TITLE" = "Кола Twitter";
 
-"ALWAYS_FOLLOWING_PAGE_OPTION_TITLE" = "Disable the For you tab";
-"ALWAYS_FOLLOWING_PAGE_OPTION_DETAIL_TITLE" = "Open Twitter on the Following tab.";
+"ALWAYS_FOLLOWING_PAGE_OPTION_TITLE" = "Вимкнути вкладку «Для вас»";
+"ALWAYS_FOLLOWING_PAGE_OPTION_DETAIL_TITLE" = "Відкривати Twitter з вкладки «Стежу».";
 
-"DN_MODULAR_SEARCH_OPTION_TITLE" = "Better Messages search";
-"DN_MODULAR_SEARCH_OPTION_DETAIL_TITLE" = "Search your Direct Messages with advanced filters.";
+"DN_MODULAR_SEARCH_OPTION_TITLE" = "Покращений пошук у повідомленнях";
+"DN_MODULAR_SEARCH_OPTION_DETAIL_TITLE" = "Шукайте в особистих повідомленнях з розширеними фільтрами.";
 
-"ADVANCED_SEARCH_TITLE" = "Advanced search";
-"ADVANCED_SEARCH_DETAIL_TITLE" = "Unlock more search filters.";
+"ADVANCED_SEARCH_TITLE" = "Розширений пошук";
+"ADVANCED_SEARCH_DETAIL_TITLE" = "Відкриває більше фільтрів для пошуку.";
 
-"VIDEO_ZOOM_OPTION_TITLE" = "Zoom on videos";
-"VIDEO_ZOOM_OPTION_DETAIL_TITLE" = "Double-tap to zoom in and out.";
+"VIDEO_ZOOM_OPTION_TITLE" = "Зум для відео";
+"VIDEO_ZOOM_OPTION_DETAIL_TITLE" = "Двічі натисніть для масштабування.";
